@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_LocalDirectory"
+            android:title="回到主页"/>
+        <item
+            android:id="@+id/nav_close"
+            android:title="断开当前连接"/>
+    </group>
+</menu>

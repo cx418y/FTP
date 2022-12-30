@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"/>
+    <item
+        android:id="@+id/passive"
+        android:title="@string/passive"/>
+    <item
+        android:id="@+id/type"
+        android:title="@string/type"/>
+    <item
+        android:id="@+id/mode"
+        android:title="@string/mode"/>
+    <item
+        android:id="@+id/structure"
+        android:title="@string/structure"/>
+</menu>

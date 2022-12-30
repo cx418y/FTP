@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FTPClient</string>
+    <string name="password">密码</string>
+    <string name="connect">连接</string>
+    <string name="username">用户名</string>
+    <string name="port">端口</string>
+    <string name="address">地址</string>
+    <string name="anonymous">匿名登录</string>
+    <string name="defaultIp">0</string>
+    <string name="dot">.</string>
+    <string name="setting">下载路径</string>
+    <string name="download_directory">pathname</string>
+    <string name="set">确认</string>
+    <string name="cancel">取消</string>
+    <string name="passive">主动/被动模式</string>
+    <string name="type">TYPE</string>
+    <string name="mode">MODE</string>
+    <string name="structure">STRU</string>
+</resources>

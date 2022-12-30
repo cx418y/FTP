@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Server</string>
+    <string name="action_settings">Settings</string>
+    <string name="all_file">查看所有文件</string>
+    <string name="port">设置端口号</string>
+    <string name="server_ip">服务器当前ip:</string>
+    <string name="client_account">客户端账号信息</string>
+    <string name="server_ip_content">ip</string>
+
+
+</resources>
